@@ -78,4 +78,4 @@ else:
 
 #the tick system is basically introducing a variable such as x, and making the while loop add 1 to it each time the code is executed
 #this is more preferable than using a time.sleep() command and exiting the loop afterwards because it sets a certain number of times for code execution instead of depending on a set amount of time
-#ticks are different because they do not depend on a certain unit or a clock and instead depend on the internal clockspeed of the computer and how fast the code is going
+#ticks are different because they do not depend on a certain unit or a clock and instead depend on the internal clock speed of the computer and how fast the code is going
